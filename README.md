@@ -2,7 +2,7 @@
 ## Daniel Castaneda Mogollon, PhD
 ### July 10th, 2026
 
-![Alt Text](metqc_icon.html)
+![Alt Text]icon-1024.png
 
 This forked repository has a few modifications from the original one, including some filtering steps, change of parameters and software, and modifying the Snakemake files linked to it.
 
